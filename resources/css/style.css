@@ -14,6 +14,14 @@ body{
     color: white;  
 }
 
+#callto-banner{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+    color: white;
+}
+
 #download-link{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 16px;
