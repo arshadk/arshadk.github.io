@@ -1,6 +1,7 @@
 .content{
     background: #000;
 }
+
 body{
     background: black 
 }
@@ -11,5 +12,24 @@ body{
     font-size: 50px;
     text-align: center;
     color: white;  
-};
+}
+
+#download-link{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+    text-align: center 
+}
+
+#video-spec{
+    position:absolute
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
 
