@@ -22,6 +22,14 @@ body{
     color: white;
 }
 
+#placesto-see{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    text-align: center;
+    color:gray;
+}
+
 #download-link{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 16px;
